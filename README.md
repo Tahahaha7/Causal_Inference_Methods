@@ -1,1 +1,2 @@
-<h1>Causal Inference Tutorial</h1>
+<h1 align="center">Causal Inference Tutorial</h1>
+
